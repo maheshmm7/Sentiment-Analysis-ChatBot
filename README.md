@@ -49,7 +49,7 @@ It's recommended to use a virtual environment to manage dependencies for your pr
 
 3. Navigate to your project directory:
    ```
-   cd [Your Repository Name]
+   git clone https://github.com/maheshmm7/Sentiment-Analysis-ChatBot.git
    ```
 
 4. Create a new virtual environment:
@@ -80,8 +80,7 @@ Once your virtual environment is activated, you can install the project dependen
 
 1. Clone the repository (if you haven't already):
    ```
-   git clone [Your Repository URL]
-   cd [Your Repository Name]
+   git clone https://github.com/maheshmm7/Sentiment-Analysis-ChatBot.git
    ```
 
 2. Set up your Hugging Face API key:
@@ -168,8 +167,9 @@ The application uses the following Hugging Face API endpoints:
 
 ## Author
 
-[Your Full Name]
-[Your Contact Details]
+- RANGALA MAHESH
+- maheshrangala7@gmail.com
+- +919032017670
 
 ## Acknowledgments
 
