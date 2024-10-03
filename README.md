@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Sentiment Analysis Application developed as part of an internship assignment for Aspireit. The application allows users to input text, analyzes the sentiment of the input using a pre-trained model, and visualizes the results through various charts.
+This project is a Sentiment Analysis Application. The application allows users to input text, analyzes the sentiment of the input using a pre-trained model, and visualizes the results through various charts.
 
 ## Features
 
