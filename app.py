@@ -5,7 +5,7 @@ import plotly.express as px
 
 # Set up Hugging Face API URLs and headers
 API_URL_SENTIMENT = "https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer Your_API_Key"}
 
 # Function to perform sentiment analysis using Hugging Face API
 def analyze_sentiment(text):

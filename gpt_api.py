@@ -2,7 +2,7 @@ import requests
 
 # Hugging Face API URL for GPT-2
 API_URL_GPT = "https://api-inference.huggingface.co/models/openai-community/gpt2"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer Your_API_Key"}
 
 def query_gpt(prompt):
     payload = {"inputs": prompt}

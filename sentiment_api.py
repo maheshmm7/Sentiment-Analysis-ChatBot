@@ -2,7 +2,7 @@ import requests
 
 # Hugging Face API URL for sentiment analysis
 API_URL_SENTIMENT = "https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment"
-headers = {"Authorization": "Bearer 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"}
+headers = {"Authorization": "Bearer Your_API_Key"}
 
 def analyze_sentiment(text):
     response = requests.post(API_URL_SENTIMENT, headers=headers, json={"inputs": text})
