@@ -1,0 +1,11 @@
+name: sentiment-analysis
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - transformers
+  - pandas
+  - scikit-learn
+  - matplotlib
